@@ -1,0 +1,10 @@
+/* Style for the remaining time elements */
+span {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+input {
+    margin-bottom: 20px;
+}
